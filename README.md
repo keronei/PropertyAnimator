@@ -6,4 +6,4 @@ ObjectAnimator.
 
 Sample
 -------
-<img src="/screenshots/Animations.gif" width="300" height="500" />
+<img src="screenshots/Animations.gif" width="300" height="500" />
